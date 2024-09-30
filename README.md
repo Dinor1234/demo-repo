@@ -1,3 +1,5 @@
 # Demo 
 
-My first full understanding of Github.
+My first full understanding of Github!
+
+I am very excited to be learning this.
